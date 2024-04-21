@@ -1,0 +1,7 @@
+Dataset comes from:
+https://www.kaggle.com/datasets/vikrishnan/boston-house-prices?resource=download
+
+To replicate results download the dataset to data/ and run
+  conda env create -f environment.yml
+  conda activate ML_DT
+  python dt.py
